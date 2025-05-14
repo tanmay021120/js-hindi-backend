@@ -1,0 +1,14 @@
+"use strict"  //treat all JS Code as newer version
+
+let isLoggedIn = true
+ 
+//number 2 to power 53
+//boolean -> true or false 
+//null -> standalone value 
+//undefined -> value hasnt been defined yet
+//string = "" / ''
+
+//alert("Hello") // we are using ndoe js not browser
+console.log(typeof(isLoggedIn))
+// objects 
+// null is object whereas undefined is undefined
